@@ -1,6 +1,5 @@
 ﻿# Maximise-the-Tastiness
 
-Sure! Here's a clear explanation of the C++ code:
 
 ---
 
@@ -93,4 +92,3 @@ Then:
 
 ---
 
-Let me know if you want a version that stores the results or uses arrays!
